@@ -1,0 +1,15 @@
+.footer-container{
+    background-color:orange;
+
+}
+
+.btn-primary{
+    background-color: orange;
+    border-color: rgba(98, 98, 98, 0) ;
+    border-radius: 10px;
+}
+
+
+h2::after{
+    background-color: orange;
+}
